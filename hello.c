@@ -6,6 +6,8 @@ int main() {
 
    printf("Hello, World! \n");
    printf("Filip Bialobrzecki\n");
+   printf("Jakub Kacan\n");
+
 
 
 
